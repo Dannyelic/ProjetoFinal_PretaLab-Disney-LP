@@ -41,7 +41,7 @@ function calcularMedia() {
     mensagem = `Hoje é seu aniversário? Pq você ta de parabéns! 10 de média`
   }
   else{
-    mensagem = `Preencha com as suas notas!`
+    mensagem = `Preencha com notas válidas`
   }
   
 
